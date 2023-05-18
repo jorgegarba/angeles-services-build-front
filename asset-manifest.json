@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1d026afd.css",
+    "main.js": "./static/js/main.2c97c3e5.js",
+    "static/media/sorteo-auto-bolo2.jpg": "./static/media/sorteo-auto-bolo2.d0e8793a3b9c7ee1cbf8.jpg",
+    "static/media/logo.png": "./static/media/logo.f4962da85d2eb918f7c2.png",
+    "static/media/sorteo-auto-apolo.jpg": "./static/media/sorteo-auto-apolo.0b00ad5cb22689e938f4.jpg",
+    "index.html": "./index.html",
+    "main.1d026afd.css.map": "./static/css/main.1d026afd.css.map",
+    "main.2c97c3e5.js.map": "./static/js/main.2c97c3e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d026afd.css",
+    "static/js/main.2c97c3e5.js"
+  ]
+}
